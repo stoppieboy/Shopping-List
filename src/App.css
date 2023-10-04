@@ -19,6 +19,7 @@
 
 .inputs > input {
   font-size: inherit;
+  border-radius: 10px;
 }
 
 li {
